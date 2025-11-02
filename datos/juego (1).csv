@@ -1,0 +1,15 @@
+dia;estado;temperatura;humedad;viento;juego
+1;nublado;alta;alta;no;si
+2;nublado;media;alta;si;si
+3;lluvioso;media;alta;no;si
+4;lluvioso;media;alta;si;no
+5;soleado;alta;alta;no;no
+6;soleado;alta;alta;si;no
+7;soleado;media;alta;no;no
+8;nublado;baja;normal;si;si
+9;nublado;alta;normal;no;si
+10;lluvioso;baja;normal;no;si
+11;lluvioso;media;normal;no;si
+12;soleado;baja;normal;no;si
+13;soleado;media;normal;si;si
+14;lluvioso;baja;normal;si;no

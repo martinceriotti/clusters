@@ -1,0 +1,4 @@
+PRODUCTOS
+Matriz de disimilaridades entre 7 productos. Las evaluaciones son medianas 
+de varios consumidores.
+Fuente: Elaboración propia
