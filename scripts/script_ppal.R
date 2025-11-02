@@ -1,3 +1,12 @@
+# IMPORTANTE Cuando no se inicializa el proyecto desde GIT.
+
+# Como el proyecto no estaba en GIT, configure el proyecto en Tools, project options. Seleccione git
+# Luego, cree el repo "clusters" que se llama igual que el proyecto.
+# Por último corri en terminal:
+# git remote add clusters https://github.com/martinceriotti/clusters
+# git push --set-upstream clusters master
+
+
 library(readxl)
 library(dplyr)
 library(factoextra)
